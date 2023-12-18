@@ -1,0 +1,48 @@
+header{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-style:normal;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(131, 131, 131);
+    text-align: center;
+    height: 500px;
+    background-image: url(https://massivelyop.com/wp-content/uploads/2017/07/roblox-696x229.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+
+}
+main{
+    display: flex;
+}
+
+.left{
+    width: 50%;
+    text-align: center;
+    background: linear-gradient(to left, rgb(53, 53, 49), rgb(10, 109, 201));
+    padding-left: 40px;
+}
+.right{
+    width: 50%;
+    padding-top: 20px;
+    background: linear-gradient(to right, rgb(54, 54, 50), rgb(10, 109, 201));
+
+}
+.B1{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+footer{
+    background-color: beige;
+    color: black;
+    font-size: 20px;
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.L1 .B2{
+    width: 100%;
+    text-align: center;
+}
+
+body{margin: 0;}
